@@ -100,7 +100,7 @@ void loop(void)
 
   /* Board layout:
          +----------+
-         |         *| RST   PITCH  ROLL  HEADING
+         |         *| RST   PITCH  ROLL    YAW
      ADR |*        *| SCL
      INT |*        *| SDA     ^            /->
      PS1 |*        *| GND     |            |
